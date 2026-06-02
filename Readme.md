@@ -16,3 +16,10 @@
 - DOM selection and manipulation
 - Audio playback using JavaScript
 - Managing user interactions
+
+- ## Future Improvements
+
+- Volume control
+- Custom sound packs
+- Dark mode
+- Recording feature
