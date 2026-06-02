@@ -11,6 +11,8 @@
 - JavaScript
 
 ## What I Learned
-- Event handling
-- DOM manipulation
-- Audio integration
+
+- Keyboard event handling
+- DOM selection and manipulation
+- Audio playback using JavaScript
+- Managing user interactions
