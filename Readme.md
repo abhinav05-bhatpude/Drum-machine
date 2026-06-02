@@ -21,6 +21,12 @@
 
 [View Project](https://drum-machine-bice-eta.vercel.app/)
 
+## Project Structure
+
+├── index.html
+├── style.css
+├── script.js
+
 - ## Future Improvements
 - Volume control
 - Custom sound packs
