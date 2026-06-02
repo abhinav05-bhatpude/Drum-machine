@@ -17,8 +17,11 @@
 - Audio playback using JavaScript
 - Managing user interactions
 
-- ## Future Improvements
+## Live Demo
 
+[View Project](https://drum-machine-bice-eta.vercel.app/)
+
+- ## Future Improvements
 - Volume control
 - Custom sound packs
 - Dark mode
